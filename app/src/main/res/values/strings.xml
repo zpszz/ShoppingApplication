@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">购物商城</string>
+    <string name="text_rb_home">首页</string>
+    <string name="text_rb_category">分类</string>
+    <string name="text_rb_cart">购物车</string>
+    <string name="cart_empty_info">哎呀，购物车空空如也，快去选购商品吧</string>
+    <string name="cart_to_shop">逛逛手机商场</string>
+    <string name="cart_clear">清空</string>
+    <string name="cart_all_money">总金额：</string>
+    <string name="cart_settle">结算</string>
+</resources>
